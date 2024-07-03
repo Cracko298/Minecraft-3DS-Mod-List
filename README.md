@@ -83,7 +83,7 @@
 
 # World(s):
 <details>
-  <summary>Minecraft Nintendo 3DS Edition Modding Libraries</summary>
+  <summary>Minecraft Nintendo 3DS Edition Worlds/Maps/summary>
 
 ### Development World v2:
 - Develop your World in the Void, now you can fully make Minecraft 3DS Maps again with this new redesigned DevWorld.
