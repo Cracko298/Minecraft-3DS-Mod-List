@@ -4,39 +4,51 @@
 # Tool(s):
 <details>
   <summary>Minecraft Nintendo 3DS Edition Modding Tools</summary>
+  
 ### CombinedAudioTool (CATool):
 - Extract `CombinedAudio.bin`, and replace Audio/Ambiance/SFX in-game with your own Custom Audio.
 - Developed by [Cracko298](https://github.com/Cracko298) and [YT-Toaster](https://github.com/YT-Toaster).
+  
 ### MC3DS Texture Maker (MC3DS-TM):
 - Extract/Replace in-game textures, while being extremely user-friendly and a Plathora of Features.
 - Developed by [STBrian/STBUniverse](https://github.com/STBrian).
+
 ### MC3DS Texture Compare (MC3DS-TC):
 - Compare and Combine Multiple Texture Mods that use the Same Texture Atlases.
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 ### MC3DS Fix UI Opacity:
 - Can change the Opacity of Multiple Textures in-game.
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 ### Mass Blang Converter:
 - Convert a huge amount of Files to/from `*.blang` and `*.json` using `mc3dsblang` Module.
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 ### Blang Editor:
 - Convert a few Blang Files at a time to/from `*.blang` and `*.json` using `mc3dsblang` Module.
 - Developed by [STBrian/STBUniverse](https://github.com/STBrian).
+
 ### MC3DS Flip:
 - The original Application for Everything `*.3dst` related. The application is current depreciated and now is reccomended to use <ins>MC3DS-TM</ins>.
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 ### 3DST Converter:
 - Convert a wide-range of Image Formats to/from `etc2_bgra` and `etc2_abgr` Formats of `*.3dst`.
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 ### PNG23DST:
 - Convert `*.png` Files to/from `etc2_rgba8` Format of `*.3dst`.
 - Developed by [STBrian/STBUniverse](https://github.com/STBrian).
+
 ### MC3DS Matterial Attribute Converter:
 - Convert MAC Files to/from Matterial Attribute Files. Builds for both Nintendo 3DS, and Windows
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 ### MC3DS Option WinEdit:
 - Convert UTF-8 Character Encoding of Windows Notepad to UTF-16 for Nintendo 3DS. Builds for both Nintendo 3DS, and Windows.
 - Developed by [Cracko298](https://github.com/Cracko298).
+
 </details>
 
 
