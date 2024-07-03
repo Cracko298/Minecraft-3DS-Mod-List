@@ -2,6 +2,8 @@
 - A comprehensive list/guide of Nearly all Minecraft New Nintendo 3DS Edition Mods and Tools.
 
 # Tool(s):
+<details>
+  <summary>Minecraft Nintendo 3DS Edition Modding Tools</summary>
 ### CombinedAudioTool (CATool):
 - Extract `CombinedAudio.bin`, and replace Audio/Ambiance/SFX in-game with your own Custom Audio.
 - Developed by [Cracko298](https://github.com/Cracko298) and [YT-Toaster](https://github.com/YT-Toaster).
@@ -35,7 +37,7 @@
 ### MC3DS Option WinEdit:
 - Convert UTF-8 Character Encoding of Windows Notepad to UTF-16 for Nintendo 3DS. Builds for both Nintendo 3DS, and Windows.
 - Developed by [Cracko298](https://github.com/Cracko298).
-
+</details>
 
 
 
