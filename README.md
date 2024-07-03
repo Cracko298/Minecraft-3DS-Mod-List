@@ -81,16 +81,159 @@
 
 </details>
 
-
-
-
-
-
 # World(s):
+<details>
+  <summary>Minecraft Nintendo 3DS Edition Modding Libraries</summary>
 
+### Development World v2:
+- Develop your World in the Void, now you can fully make Minecraft 3DS Maps again with this new redesigned DevWorld.
+- Developed by [Cracko298](https://github.com/Cracko298).
 
+### SkyblockPlus (+):
+- A modern version of Skyblock for Minecraft 3DS, using FWO to Load Directly off the SDHC Card, and in a complete Void of a World.
+- Developed by [Cracko298](https://github.com/Cracko298).
 
+### Genspace Skyblock:
+- A custom-made skyblock with over 16 islands to travel to and explore.
+- Developed by `Genspace`.
 
+### Lava City (PvP):
+- A small PvP Map Taking Place in a Lava-Flooded building.
+- Developed by `Virtual Overtime`.
+
+### FNaF Hide & Seek:
+- A simple Hide & Seek map for Minecraft 3DS based on Five Nights at Freddy's.
+- Developed by `Virtual Overtime`.
+
+### Building Time:
+- The classic stampy series is now avaliable for Minecraft 3DS.
+- Developed by [DarkForPresident/Vance](https://github.com/DarkForPresident).
+
+### DanTDM's Lab:
+- DanTDMs' Lab recreated as accurately as possible for Minecraft 3DS.
+- Developed by `Cleetus Mcfarln`.
+
+### Find the Button:
+- Four levels of this time-crunching game. How fast can you find the Button?
+- Developed by `ArcModzzz`.
+
+### World in a Jar 3DS:
+- A basic survival game like skyblock, but you're in a Jar, in the sky. Multiple Jars to find and explore.
+- Developed by `ArcModzzz`.
+
+### Megadropper:
+- A simple Dropper Recreation for Minecraft 3DS.
+- Developed by `Unknown`.
+
+### Dual Flow:
+- A simple Parkour Map for Minecraft 3DS only made of White and Black blocks.
+- Developed by `UnknownLoser`.
+
+### The Dropper (3DS Remaster):
+- A remastered version of the Dropper for Minecraft 3DS, with a plethora of Levels.
+- Developed by `Genspace`, [WaterMelon4938](https://github.com/WaterMelon4938), [DarkForPresident/Vance](https://github.com/DarkForPresident), `Ruff64`, [DeadSkullzJr](https://github.com/DeadSkullzJr), and `CZX`.
+
+### Minecraft 3DS Modernization:
+- This map has a few features of what Future Updates had in-store for Minecraft 3DS.
+- Developed by `Genspace`.
+
+### Stampys' Lovely World:
+- A recreation of the iconic "Stampys' Lovely World".
+- Developed by `Babylion122`.
+
+### Skyden 3DS:
+- A Recreation of a Classic Stampy series for Minecraft 3DS.
+- Developed by `Genspace`.
+
+### Lapiz Funland:
+- A huge theme-park/amusement-park for Minecraft 3DS.
+- Developed by `Babylion122`.
+
+### 3DSpleef:
+- The classic Minigame; spleef. Is now avaliable for Minecraft 3DS!
+- Developed by [DarkForPresident/Vance](https://github.com/DarkForPresident).
+
+### Randoms:
+- A nostalgic adventure map (played by Stampy and Squid), where each map is random.
+- Developed by [DarkForPresident/Vance](https://github.com/DarkForPresident).
+
+### FunWalk:
+- Over 100+ Parkour Levels and some Minigames to explore and Play.
+- Developed by `PokeTube`.
+
+### 3DSMP Archives:
+- Play some of the Minecraft 3DS SMP Worlds.
+- Developed by `Unknown`.
+
+### Skyblock:
+- A very basic version of Skyblock that's just over a super-flat world.
+- Developed by [DarkForPresident/Vance](https://github.com/DarkForPresident).
+
+### Superflat Survival:
+- A superflat survival map that has no structures, and no materials to start with.
+- Developed by `ThorMode9`.
+
+### LoCity:
+- Probably the most modded map for it's simple yet hard to replaicate architecture.
+- Developed by `OliverDISC`.
+
+### PanGames
+- A collection of Minigames and Attractions to play alone or with friends.
+- Developed by `PanguinBoi`.
+
+### PokeTube City:
+- The largest city ever developed for Minecraft Nintendo 3DS Edition.
+- Developed by `PokeTube`.
+
+### Past PokeTube City:
+- See the PokeTube city as it was `~150` Years ago.
+- Developed by `PokeTube`.
+
+### Wewelsburg:
+- A Map that closelly represents Mutliple German Architecture Designs and did I mention huge f###ing castle?
+- Developed by `ThorMode9`.
+
+### Kreideprinzs' City World:
+- An ongoing project for a City like PokeTube City.
+- Developed by `Kreideprinz`.
+
+### Debug Mode 3D:
+- A 3DS Map to help people make Textures.
+- Developed by [WaterMelon4938](https://github.com/WaterMelon4938).
+
+### Blind Mazes:
+- The first ever map for Minecraft 3DS Edition.
+- Developed by [WaterMelon4938](https://github.com/WaterMelon4938).
+
+### Festive World Override:
+- A Proof of Concept Mod/Map/Exploit, to show that you can load Custom Maps into Minecraft 3DS via SDHC Card instead of ExtData.
+- Developed by [Cracko298](https://github.com/Cracko298).
+
+### SDCard Dropper Map:
+- A recreation of the "Dropper" using the FWO Exploit to Load from SDHC Card.
+- Developed by [YT-Toaster](https://github.com/YT-Toaster).
+
+### Experience Minecraft:
+- A simple Parkour Map.
+- Developed by `Kakuremino`.
+
+### Hide & Go Seek:
+- A basic "Hide & Seek" Map with some cool designs.
+- Developed by `JakerBricksYT`.
+
+### Kakureminos' Debug Mode 3D:
+- A fork of [WaterMelon4938](https://github.com/WaterMelon4938)'s Debug Mode 3D with unused block as well.
+- Developed by `Kakuremino`.
+
+### Amplified World Generation
+- World Generation based on Amplification, has Brand-New Structures and Terrain Generation (like better caves). Uses FWO Exploit to Load off the SDHC Card.
+- Developed by [Cracko298](https://github.com/Cracko298).
+
+### Farlands World Generation:
+- World Generation based on the Farlands, uses FWO Exploit to Load off the SDHC Card.
+- Developed by [Cracko298](https://github.com/Cracko298).
+
+</details>
 
 
 
